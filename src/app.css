@@ -1,0 +1,143 @@
+/* -----------------------------Skill --------------------------------------------- */
+
+#skillbut button:hover {
+  box-shadow: 0 0 5px 4px #7971719e;
+  background-color: #233654;
+}
+
+#progess-html {
+  animation: html 1s;
+}
+@keyframes html {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 90%;
+  }
+}
+#progess-css {
+  animation: css 1s;
+}
+@keyframes css {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
+}
+#progess-js {
+  animation: js 1s;
+}
+@keyframes js {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 75%;
+  }
+}
+
+#progess-react {
+  animation: react 1s;
+}
+@keyframes react {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 70%;
+  }
+}
+
+#progess-php {
+  animation: php 1s;
+}
+@keyframes php {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 70%;
+  }
+}
+#progess-boot {
+  animation: boot 1s;
+}
+@keyframes boot {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
+}
+#progess-tcss {
+  animation: tcss 1s;
+}
+@keyframes tcss {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 75%;
+  }
+}
+
+#progess-jqury{
+  animation: jqury 1s;
+}
+@keyframes jqury {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
+}
+
+
+#progess-git{
+  animation: git 1s;
+}
+@keyframes git {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
+}
+#progess-vsc{
+  animation: vsc 1s;
+}
+@keyframes vsc {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 85%;
+  }
+}
+#progess-res{
+  animation: res 1s;
+}
+@keyframes res {
+  0% {
+    width: 0;
+  }
+  100% {
+    width: 80%;
+  }
+}
+
+
+/* -----------------------------------------contact----------------------------------- */
+
+.in1:focus {
+  box-shadow: 0 0 9px 4px #7b69dc;
+  outline: none;
+}
+
+/* ------------------------------------------- weather -----------------------------------------  */
