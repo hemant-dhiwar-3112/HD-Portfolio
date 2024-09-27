@@ -82,7 +82,7 @@ const Project = () => {
               </p>
               <div className="px-2 m-4 flex justify-between">
                 <a
-                  href="http://hd-movieticket.a0001.net/"
+                  href="https://hd-movie-ticket.42web.io/"
                   target="_balnk"
                   className="  dark:text-[#64FFDA]  text-white bg-[#9c9c9cc2] px-4 py-3 rounded-3xl hover:bg-[#585757c2]"
                 >
