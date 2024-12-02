@@ -43,7 +43,7 @@ const Project = () => {
               <div className="px-2 m-4 flex justify-between">
                 <a
                   href=""
-                  target="_balnk"
+                  // target="_balnk"
                   className="  dark:text-[#64FFDA]  text-white bg-[#9c9c9cc2] px-4 py-3 rounded-3xl hover:bg-[#585757c2]"
                 >
                   Preview
@@ -83,7 +83,7 @@ const Project = () => {
               <div className="px-2 m-4 flex justify-between">
                 <a
                   href=""
-                  target="_balnk"
+                  // target="_balnk"
                   className="  dark:text-[#64FFDA]  text-white bg-[#9c9c9cc2] px-4 py-3 rounded-3xl hover:bg-[#585757c2]"
                 >
                   Preview
