@@ -24,8 +24,8 @@ const Home = () => {
               </p>
 
               <a
-                href={pdf}
-                download="resume"
+                // href={pdf}
+                // download="resume"
                 className="bg-[#6d94e8f5] px-[14px] py-[12px] rounded-[15px] text-white my-10 hover:bg-[#0d52e6f5]"
               >
                 Download CV
