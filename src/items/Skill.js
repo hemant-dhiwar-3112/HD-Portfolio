@@ -111,7 +111,7 @@ const Skill = () => {
                     cash="w-[70%] float-left h-1 bg-emerald-400"
                     id="progess-php"
                   />
-                       <Skillper
+                      <Skillper
                     name="NODE JS"
                     per="60%"
                     cash="w-[60%] float-left h-1 bg-emerald-400"
