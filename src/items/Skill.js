@@ -115,7 +115,7 @@ const Skill = () => {
                     name="NODE JS"
                     per="60%"
                     cash="w-[60%] float-left h-1 bg-emerald-400"
-                    id="progess-php"
+                    id="progess-node"
                   />
                 </div>
                 <div className={showhide3}>
