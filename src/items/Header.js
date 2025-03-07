@@ -7,7 +7,7 @@ import { BiMoon, BiSun, BiX, BiMenu } from "react-icons/bi";
 const Header = () => {
   const [ThemeMode, setThemeMode] = useState("dark");
   const [themeicon, setthemeicon] = useState(
-    <BiSun className=" text-4xl  md:text-3xl p-[5px] dark:text-white text-center mx-auto" />
+    <BiMoon className=" text-4xl  md:text-3xl p-[5px] dark:text-white text-center mx-auto" />
   );
   const [logo, setlogo] = useState(logodark);
   const [icon, seticon] = useState(
