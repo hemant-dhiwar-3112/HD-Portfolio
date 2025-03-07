@@ -9,7 +9,7 @@ const Header = () => {
   const [themeicon, setthemeicon] = useState(
     <BiSun className=" text-4xl  md:text-3xl p-[5px] dark:text-white text-center mx-auto" />
   );
-  const [logo, setlogo] = useState(logoligth);
+  const [logo, setlogo] = useState(logodark);
   const [icon, seticon] = useState(
     <BiMenu className=" text-4xl cursor-pointer md:text-3xl p-[5px] dark:text-white text-center mx-auto" />
   );
